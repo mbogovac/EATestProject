@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EAAutoFramework2>
+	<RunSettings>
+		<AUT>http://eaapp.somee.com/</AUT>
+		<Browser>Firefox</Browser>
+		<TestType>SmokeTest</TestType>
+		<IsLog>Y</IsLog>
+		<LogPath>C:\\Users\\mila.bogovac\\source\\repos\\EATestProject\\EAAutoFramework2\\EAAutoLogs\\</LogPath>
+		<BuildName>DemoBuild</BuildName>
+		<IsReport>N</IsReport>
+		<UserName>EAutoTeam</UserName>
+		<Technology>Selenium</Technology>
+	</RunSettings>
+</EAAutoFramework2>
